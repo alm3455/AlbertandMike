@@ -1,126 +1,258 @@
-Corned Beef Hash,0,3,159,87,"['', 'Total Fat: 9.6 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 4.1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 20.3 mg', 'Sodium: 584.3 mg', 'Total Carbs: 10.7 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 1.8 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 0.7 g', 'Protein: 7.4 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",9.6,4.1
-Cage Free Eggs Cooked to Order,0,1,70,41,"['', 'Total Fat: 4.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 1.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 215 mg', 'Sodium: 65 mg', 'Total Carbs: 1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 0 g', 'Protein: 6 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",4.5,1.5
-Cage-Free Egg Whites Cooked to Order,0,4,57,0,"['', 'Total Fat: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 0 mg', 'Sodium: 192.8 mg', 'Total Carbs: 1.1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 0 g', 'Protein: 12.5 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",0.0,0.0
-Hard Cooked Eggs - Cage Free,0,1,70,41,"['', 'Total Fat: 4.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 1.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 215 mg', 'Sodium: 65 mg', 'Total Carbs: 1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 0 g', 'Protein: 6 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",4.5,1.5
-Scrambled Cage Free Eggs,0,4,180,113,"['', 'Total Fat: 12.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 3.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 476.3 mg', 'Sodium: 158.8 mg', 'Total Carbs: 1.1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 1.1 g', 'Protein: 14.7 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",12.5,3.5
-Waffles,0,2,200,54,"['', 'Total Fat: 6 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 0 mg', 'Sodium: 330 mg', 'Total Carbs: 32 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 2 g', 'Protein: 4 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",6.0,1.0
-Blueberrt Coffee Cake,0,1,227,107,"['', 'Total Fat: 11.9 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 4 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 31.2 mg', 'Sodium: 204.1 mg', 'Total Carbs: 31.2 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 20.4 g', 'Protein: 2.8 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",11.9,4.0
-Cinnamon Coffee Cake Muffin,0,1,280,135,"['', 'Total Fat: 15 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 3.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 45 mg', 'Sodium: 170 mg', 'Total Carbs: 34 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 20 g', 'Protein: 3 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",15.0,3.5
-Rudi's Mini Croissant,0,1,115,54,"['', 'Total Fat: 6 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 3.3 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 19 mg', 'Sodium: 210.9 mg', 'Total Carbs: 13 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0.7 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 0 g', 'Protein: 2.3 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",6.0,3.3
-Pancake Syrup,0,1,96,0,"['', 'Total Fat: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 0 mg', 'Sodium: 33.6 mg', 'Total Carbs: 25.2 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 8.8 g', 'Protein: 0 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",0.0,0.0
-Corned Beef Hash,0,3,159,87,"['', 'Total Fat: 9.6 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 4.1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 20.3 mg', 'Sodium: 584.3 mg', 'Total Carbs: 10.7 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 1.8 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 0.7 g', 'Protein: 7.4 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",9.6,4.1
-Cage Free Eggs Cooked to Order,0,1,70,41,"['', 'Total Fat: 4.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 1.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 215 mg', 'Sodium: 65 mg', 'Total Carbs: 1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 0 g', 'Protein: 6 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",4.5,1.5
-Cage-Free Egg Whites Cooked to Order,0,4,57,0,"['', 'Total Fat: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 0 mg', 'Sodium: 192.8 mg', 'Total Carbs: 1.1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 0 g', 'Protein: 12.5 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",0.0,0.0
-Hard Cooked Eggs - Cage Free,0,1,70,41,"['', 'Total Fat: 4.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 1.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 215 mg', 'Sodium: 65 mg', 'Total Carbs: 1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 0 g', 'Protein: 6 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",4.5,1.5
-Scrambled Cage Free Eggs,0,4,180,113,"['', 'Total Fat: 12.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 3.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 476.3 mg', 'Sodium: 158.8 mg', 'Total Carbs: 1.1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 1.1 g', 'Protein: 14.7 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",12.5,3.5
-Waffles,0,2,200,54,"['', 'Total Fat: 6 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 0 mg', 'Sodium: 330 mg', 'Total Carbs: 32 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 2 g', 'Protein: 4 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",6.0,1.0
-Blueberrt Coffee Cake,0,1,227,107,"['', 'Total Fat: 11.9 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 4 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 31.2 mg', 'Sodium: 204.1 mg', 'Total Carbs: 31.2 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 20.4 g', 'Protein: 2.8 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",11.9,4.0
-Cinnamon Coffee Cake Muffin,0,1,280,135,"['', 'Total Fat: 15 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 3.5 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 45 mg', 'Sodium: 170 mg', 'Total Carbs: 34 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 1 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 20 g', 'Protein: 3 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",15.0,3.5
-Rudi's Mini Croissant,0,1,115,54,"['', 'Total Fat: 6 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 3.3 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 19 mg', 'Sodium: 210.9 mg', 'Total Carbs: 13 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0.7 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 0 g', 'Protein: 2.3 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",6.0,3.3
-Pancake Syrup,0,1,96,0,"['', 'Total Fat: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Saturated Fat: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Trans Fat: 0 g', 'Cholesterol: 0 mg', 'Sodium: 33.6 mg', 'Total Carbs: 25.2 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Dietary Fiber: 0 g\r', '\t\t\t\t\t\t\xa0\xa0\xa0\xa0Sugars: 8.8 g', 'Protein: 0 g', '\r', '\t\t\t\t\t\t\r', '\t\t\t\t\t\tCalories\r', '\t\t\t\t\t\tFat\r', '\t\t\t\t\t\tCholesterol\r', '\t\t\t\t\t\tProtein\r', '\t\t\t\t\t\tCarbohydrates\r', '\t\t\t\t\t\tSodium\r', '\t\t\t\t\t\tVitamin A - IU\r', '\t\t\t\t\t\tVitamin C\r', '\t\t\t\t\t\tIron\r', '\t\t\t\t\t\tCalcium', '']",0.0,0.0
-Corned Beef Hash,0,3,159,87,9.6,4.1
-Cage Free Eggs Cooked to Order,0,1,70,41,4.5,1.5
-Cage-Free Egg Whites Cooked to Order,0,4,57,0,0.0,0.0
-Hard Cooked Eggs - Cage Free,0,1,70,41,4.5,1.5
-Scrambled Cage Free Eggs,0,4,180,113,12.5,3.5
-Waffles,0,2,200,54,6.0,1.0
-Blueberrt Coffee Cake,0,1,227,107,11.9,4.0
-Cinnamon Coffee Cake Muffin,0,1,280,135,15.0,3.5
-Rudi's Mini Croissant,0,1,115,54,6.0,3.3
-Pancake Syrup,0,1,96,0,0.0,0.0
-Home Fried Potatoes,0,4,112,16,1.8,0.3
-Blueberries,0,1,16,0,0.0,0.0
-Pancake Syrup,0,1,96,0,0.0,0.0
-Steel Cut Oatmeal,0,6,122,21,2.3,0.0
-Strawberry Sauce,0,1,29,0,0.0,0.0
-Whipped Topping,0,1,49,47,5.2,3.3
-Banana Chips,0,1,142,68,7.6,6.6
-Chocolate Sunflower Seed Butter,0,1,163,108,12.0,2.1
-Grape Preserves,0,1,71,0,0.0,0.0
-Low Fat Strawberry Yogurt,0,1,30,2,0.3,0.2
-Mandarin Oranges,0,1,14,0,0.0,0.0
-Plain Nonfat Greek Yogurt,0,1,16,0,0.0,0.0
-Pumpkin Seed Butter,0,1,137,62,6.9,1.3
-Raspberry Topping,0,1,15,0,0.0,0.0
-Strawberry Preserves,0,1,71,0,0.0,0.0
-Vanilla Seed Butter,0,1,163,116,12.9,1.3
-Congee,0,4,36,2,0.2,0.0
-Pickled Vegetables - Tonkatsu,0,1,17,0,0.1,0.0
-Sambal Sauce,0,1,28,0,0.0,0.0
-Soy Sauce,0,1,19,0,0.0,0.0
-Bananas,0,1,134,4,0.5,0.2
-Harvard Fruit Salad,0,2,19,1,0.1,0.0
-Local Apples,0,1,72,2,0.2,0.0
-Oranges,0,1,59,2,0.2,0.0
-Autumn Vegetable Soup,1,6,61,14,1.6,0.1
-New England Clam Chowder,1,6,339,251,27.9,14.4
-Bulgar Wheat for your Salad,1,2,100,3,0.4,0.1
-Cannelini Beans,1,2,48,0,0.0,0.0
-Corn Niblets,1,2,44,3,0.4,0.1
-Field Greens Cranberry Walnut Salad,1,4,79,56,6.2,1.4
-Flaked Tuna,1,2,72,15,1.7,0.4
-Hard Cooked Eggs,1,1,78,45,5.0,1.7
-Hummus,1,2,109,45,5.0,0.5
-Peeled Baby Carrots,1,2,21,3,0.4,0.1
-Roasted Brussels Sprouts,1,2,46,10,1.1,0.2
-Roasted Button Mushrooms,1,2,29,16,1.8,0.3
-Seasoned Chicken Breast,1,2,80,27,3.0,0.6
-Sliced Cucumbers,1,2,6,1,0.1,0.0
-Spinach Salad Base,1,2,12,1,0.1,0.0
-Tofu,1,2,50,22,2.5,0.3
-Tomato Wedges,1,2,12,2,0.2,0.0
-Cider Glazed Ham,1,4,115,52,5.8,1.9
-Roast Turkey Breast,1,6,237,8,0.9,5.5
-Whole Cooked Turkey,1,6,365,132,14.6,4.6
-Tortellini with Butternut Squash and Onions,1,5,213,60,6.7,2.7
-Mashed Potatoes,1,4,129,36,3.9,2.4
-Sweet Potato Pecan Souffle,1,4,222,103,11.4,6.5
-Roasted Peppered Turnips,1,4,48,24,2.6,0.4
-Steamed Whole Green Beans,1,4,32,2,0.2,0.0
-Cranberry Sauce,1,1,45,0,0.0,0.0
-Cranberry Stuffing,1,4,215,79,8.8,1.4
-Turkey Gravy,1,2,17,5,0.5,0.0
-Apple Pie,1,1,220,72,8.0,3.0
-Pecan Pie,1,1,496,215,23.8,8.6
-Pumpkin Pie,1,1,321,106,11.8,4.8
-Whipped Topping,1,1,49,47,5.2,3.3
-Garlic and Herb Bread Sticks,1,1,120,23,2.5,0.0
-Herbed Oil,1,1,239,242,26.8,3.7
-Pull Apart Wheat Bread,1,1,100,14,1.5,0.0
-Whole Grain Bread Sticks,1,1,120,14,1.5,0.0
-Baguette,1,1,670,0,0.0,0.0
-Herb Havarti Cheese,1,1,111,82,9.1,5.7
-Sharp White Cheddar Cheese,1,1,114,85,9.4,6.0
-Swiss Cheese,1,1,108,71,7.9,5.0
-Moroccan Carrot Salad,1,4,110,36,4.0,0.5
-Cracked Farro Salad,1,4,189,58,6.5,1.5
-Red Quinoa Salad,1,4,189,58,6.5,1.5
-Bananas,1,1,134,4,0.5,0.2
-Local Apples,1,1,72,2,0.2,0.0
-Oranges,1,1,59,2,0.2,0.0
-Barilla Plus Penne,1,4,152,14,1.6,0.0
-Carbonara Sauce,1,4,353,306,33.9,20.3
-Marinara Spaghetti Sauce,1,4,73,33,3.6,0.0
-Bulgar Wheat for your Salad,2,2,100,3,0.4,0.1
-Cannelini Beans,2,2,48,0,0.0,0.0
-Corn Niblets,2,2,44,3,0.4,0.1
-Crumbled Bleu Cheese,2,2,203,146,16.2,10.1
-Flaked Tuna,2,2,72,15,1.7,0.4
-Hard Cooked Eggs,2,1,78,45,5.0,1.7
-Hummus,2,2,109,45,5.0,0.5
-Peeled Baby Carrots,2,2,21,3,0.4,0.1
-Roasted Brussels Sprouts,2,2,46,10,1.1,0.2
-Roasted Button Mushrooms,2,2,29,16,1.8,0.3
-Seasoned Chicken Breast,2,2,80,27,3.0,0.6
-Sliced Cucumbers,2,2,6,1,0.1,0.0
-Spinach Salad Base,2,2,12,1,0.1,0.0
-Tofu,2,2,50,22,2.5,0.3
-Tomato Wedges,2,2,12,2,0.2,0.0
-Bananas,2,1,134,4,0.5,0.2
-Local Apples,2,1,72,2,0.2,0.0
-Oranges,2,1,59,2,0.2,0.0
-Carrots,2,1,12,1,0.1,0.0
-Lettuce,2,1,4,0,0.0,0.0
-Pita Pocket,2,1,237,9,1.0,0.1
-Radishes,2,1,4,0,0.0,0.0
-sliced onions,2,1,11,0,0.0,0.0
+Bacon,0,2.0,242,191,21.2,7.6,0.0,45.4,604.8,0.0,0.0,0.0,15.1
+Cage Free Eggs Cooked to Order,0,1.0,70,41,4.5,1.5,0.0,215.0,65.0,1.0,0.0,0.0,6.0
+Cage-Free Egg Whites Cooked to Order,0,4.0,57,0,0.0,0.0,0.0,0.0,192.8,1.1,0.0,0.0,12.5
+French Toast,0,1.0,183,40,4.4,1.3,0.0,100.3,248.9,24.6,0.7,6.3,7.5
+Hard Cooked Eggs - Cage Free,0,1.0,70,41,4.5,1.5,0.0,215.0,65.0,1.0,0.0,0.0,6.0
+Scrambled Cage Free Eggs,0,4.0,180,113,12.5,3.5,0.0,476.3,158.8,1.1,0.0,1.1,14.7
+Assorted Mini Danish,0,1.0,140,63,7.0,2.5,0.0,5.0,110.0,17.0,0.0,8.0,2.0
+Cranberry Orange Muffin,0,1.0,249,119,13.2,1.9,0.0,50.6,186.9,29.6,0.4,16.4,3.1
+Peach Melba Tea Bread,0,1.0,194,78,8.7,1.9,0.3,33.7,124.8,27.5,0.0,15.0,1.9
+Pancake Syrup,0,1.0,96,0,0.0,0.0,0.0,0.0,33.6,25.2,0.0,8.8,0.0
+Shredded Hashbrowns,0,4.0,107,5,0.6,0.1,0.0,0.1,147.8,23.1,2.5,0.2,2.3
+Blueberries,0,1.0,16,0,0.0,0.0,0.0,0.0,0.0,3.6,0.8,2.6,0.0
+Pancake Syrup,0,1.0,96,0,0.0,0.0,0.0,0.0,33.6,25.2,0.0,8.8,0.0
+Steel Cut Oatmeal,0,6.0,122,21,2.3,0.0,0.0,0.0,0.0,20.7,6.1,0.0,4.6
+Strawberry Sauce,0,1.0,29,0,0.0,0.0,0.0,0.0,0.9,8.0,0.6,7.4,0.2
+Whipped Topping,0,1.0,49,47,5.2,3.3,0.2,19.4,5.4,0.4,0.0,0.0,0.3
+Apricots,0,1.0,14,0,0.0,0.0,0.0,0.0,8.0,3.2,0.0,2.1,0.0
+Banana Chips,0,1.0,142,68,7.6,6.6,0.0,0.0,0.0,18.9,0.0,5.7,0.9
+Chocolate Sunflower Seed Butter,0,1.0,163,108,12.0,2.1,0.0,0.0,8.6,11.2,2.6,6.0,4.3
+Grape Preserves,0,1.0,71,0,0.0,0.0,0.0,0.0,7.1,18.4,0.0,14.2,0.0
+Low Fat Strawberry Yogurt,0,1.0,30,2,0.3,0.2,0.0,1.3,16.4,6.2,0.0,5.2,0.9
+Plain Nonfat Greek Yogurt,0,1.0,16,0,0.0,0.0,0.0,1.2,11.9,1.2,0.1,0.9,2.9
+Pumpkin Seed Butter,0,1.0,137,62,6.9,1.3,0.0,0.0,12.9,15.5,4.3,5.2,4.3
+Strawberry Preserves,0,1.0,71,0,0.0,0.0,0.0,0.0,7.1,18.4,0.0,14.2,0.0
+Strawberry Sauce,0,1.0,29,0,0.0,0.0,0.0,0.0,0.9,8.0,0.6,7.4,0.2
+Vanilla Seed Butter,0,1.0,163,116,12.9,1.3,0.0,0.0,8.6,9.5,2.6,4.3,4.3
+Cilantro,0,0.5,3,1,0.1,0.0,0.0,0.0,5.5,0.4,0.3,0.1,0.3
+Congee,0,4.0,36,2,0.2,0.0,0.0,0.0,112.8,8.0,0.0,0.2,0.6
+Pickled Vegetables - Tonkatsu,0,1.0,17,0,0.1,0.0,0.0,0.0,93.1,4.2,0.7,2.2,0.3
+Roasted Garlic,0,0.5,46,23,2.6,0.4,0.0,0.0,2.8,5.5,0.4,0.2,1.1
+Sambal Sauce,0,1.0,28,0,0.0,0.0,0.0,0.0,340.2,5.7,0.0,5.7,0.0
+Slivered Ginger,0,0.5,10,1,0.1,0.0,0.0,0.0,1.7,2.3,0.3,0.2,0.2
+Slivered Shallots,0,0.5,9,0,0.0,0.0,0.0,0.0,1.5,2.1,0.4,1.0,0.3
+Soy Sauce,0,1.0,19,0,0.0,0.0,0.0,0.0,2029.3,2.7,0.3,0.6,2.3
+Bananas,0,1.0,134,4,0.5,0.2,0.0,0.0,1.5,34.3,3.9,18.4,1.6
+Cantaloupe,0,1.0,17,1,0.1,0.0,0.0,0.0,8.1,4.2,0.4,3.7,0.4
+Grapefruit,0,0.5,56,2,0.2,0.0,0.0,0.0,0.0,14.1,2.1,9.1,1.0
+Local Apples,0,1.0,72,2,0.2,0.0,0.0,0.0,1.4,19.1,3.3,14.3,0.4
+Oranges,0,1.0,59,2,0.2,0.0,0.0,0.0,1.2,15.1,2.7,10.3,1.1
+New England Clam Chowder,1,6.0,339,251,27.9,14.4,0.0,94.1,888.2,13.9,0.7,0.6,8.2
+Quinoa and Vegetable Soup,1,6.0,47,11,1.2,0.1,0.0,0.0,269.3,7.5,1.8,3.9,1.6
+Corn Niblets,1,2.0,44,3,0.4,0.1,0.0,0.0,0.5,10.5,1.3,1.7,1.4
+Flaked Tuna,1,2.0,72,15,1.7,0.4,0.0,23.6,28.1,0.0,0.0,0.0,13.3
+Goat Cheese,1,2.0,162,110,12.2,8.3,0.0,40.5,91.1,0.5,0.0,0.0,10.1
+Hard Cooked Eggs,1,1.0,78,45,5.0,1.7,0.0,240.8,72.8,1.1,0.0,0.0,6.7
+Hummus,1,2.0,109,45,5.0,0.5,0.0,0.0,74.3,11.9,3.0,2.0,5.0
+Roasted Brussels Sprouts,1,2.0,46,10,1.1,0.2,0.0,0.0,72.5,6.4,2.4,1.6,2.4
+Roasted Button Mushrooms,1,2.0,29,16,1.8,0.3,0.0,0.0,76.0,2.3,0.7,1.4,2.1
+Seasoned Chicken Breast,1,2.0,80,27,3.0,0.6,0.0,34.2,93.9,0.0,0.0,0.0,12.5
+Shredded Carrots,1,2.0,23,1,0.1,0.0,0.0,0.0,39.1,5.4,1.6,2.7,0.5
+Sliced Cucumbers,1,2.0,6,1,0.1,0.0,0.0,0.0,1.0,1.0,0.3,0.7,0.3
+Steamed Edamame Beans,1,1.0,43,14,1.5,0.0,0.0,0.0,111.4,4.1,1.5,0.5,3.0
+Tofu,1,2.0,50,22,2.5,0.3,0.0,0.0,0.0,1.2,0.0,0.0,5.6
+Tomato Wedges,1,2.0,12,2,0.2,0.0,0.0,0.0,5.1,2.6,0.6,0.0,0.5
+Homemade Chicken Salad,1,4.0,362,285,31.6,4.2,0.0,24.6,595.3,12.2,1.2,0.6,9.0
+Kosher Dill Pickle Chips,1,3.0,2,0,0.0,0.0,0.0,0.0,159.4,0.0,0.0,0.0,0.0
+Leaf Lettuce,1,1.0,4,0,0.0,0.0,0.0,0.0,7.9,0.8,0.4,0.2,0.4
+Mozzarella Cheese,1,1.0,85,57,6.3,3.7,0.0,22.4,177.8,0.6,0.0,0.3,6.3
+Provolone Cheese,1,1.0,100,68,7.5,4.8,0.0,19.6,248.3,0.6,0.0,0.2,7.3
+"Roasted Eggplant, Zucchini, Summer Squash and Red Peppers",1,1.0,20,15,1.6,0.2,0.0,0.0,146.2,1.5,0.5,0.7,0.3
+Roasted Low-Sodium Turkey,1,4.0,126,11,1.3,0.0,0.0,75.6,504.0,2.5,0.0,2.5,27.7
+Sliced Ham,1,4.0,142,37,4.1,1.0,0.0,50.6,567.0,4.1,0.0,2.0,18.2
+Sliced Red Onions,1,1.0,9,0,0.0,0.0,0.0,0.0,0.6,2.2,0.3,1.0,0.3
+Sliced Tomatoes,1,1.0,6,1,0.1,0.0,0.0,0.0,2.6,1.3,0.3,0.0,0.2
+"""Local Fresh Catch"" Fried",1,5.0,325,106,11.8,1.9,0.0,207.3,125.6,29.3,0.0,0.3,24.8
+Buffalo Chicken Pizza,1,1.0,414,191,21.2,7.4,0.2,33.8,936.3,35.4,1.4,0.5,18.6
+Cheese Pizza,1,1.0,263,87,9.6,4.6,0.2,15.2,572.7,31.6,1.3,0.5,12.1
+Green Garbanzo Falafel Sandwich,1,1.0,180,54,6.0,2.0,0.0,0.0,480.0,22.0,6.0,4.0,6.0
+French Fries,1,4.0,175,57,6.3,1.2,0.0,0.0,397.4,8.0,0.9,0.0,0.9
+Sauteed Swiss Chard with Garlic,1,4.0,78,40,4.5,0.6,0.0,0.0,258.8,9.2,2.9,1.7,2.9
+Steamed Vegetable Medley,1,4.0,45,0,0.0,0.0,0.0,0.0,55.0,8.0,3.0,4.0,2.0
+Diced Tomatoes,1,1.0,6,1,0.1,0.0,0.0,0.0,2.6,1.3,0.3,0.0,0.2
+Lemon Wedges,1,1.0,3,0,0.0,0.0,0.0,0.0,0.4,1.6,0.7,0.0,0.2
+Shredded Lettuce,1,1.0,4,0,0.0,0.0,0.0,0.0,2.8,0.8,0.3,0.5,0.3
+Tahini Sauce,1,1.0,42,34,3.8,0.5,0.0,0.0,2.5,1.5,0.3,0.0,1.2
+Tartar Sauce,1,1.0,81,64,7.1,1.0,0.0,5.1,253.1,5.1,0.0,2.0,0.0
+Cold Brew Coffee Frozen Yogurt,1,2.0,65,9,1.0,0.5,0.0,3.0,56.5,13.0,0.5,8.5,1.5
+Ranger Cookies,1,1.0,122,55,6.1,3.5,0.0,5.1,111.4,16.2,0.0,8.1,2.0
+Vanilla Soft Serve Ice Cream,1,2.0,85,26,2.9,2.0,0.0,13.0,39.1,13.0,0.0,9.1,1.3
+Beyond Burger,1,1.0,291,199,22.1,8.0,0.0,0.0,461.6,6.0,3.0,0.0,20.1
+Cage Free Eggs Cooked to Order,1,1.0,70,41,4.5,1.5,0.0,215.0,65.0,1.0,0.0,0.0,6.0
+Cage-Free Egg Whites Cooked to Order,1,4.0,57,0,0.0,0.0,0.0,0.0,192.8,1.1,0.0,0.0,12.5
+Frankfurter Rolls,1,1.0,120,14,1.5,0.0,0.0,0.0,230.0,23.0,1.0,3.0,4.0
+French Fries,1,4.0,175,57,6.3,1.2,0.0,0.0,397.4,8.0,0.9,0.0,0.9
+Grilled All Beef Old Neighborhood Hot Dog,1,1.0,129,90,9.9,5.0,0.0,29.8,357.2,1.0,7.9,0.0,7.9
+Grilled Burger,1,1.0,271,190,21.1,10.0,0.0,70.2,60.2,0.0,0.0,0.0,19.1
+Grilled Cheese Sandwich,1,1.0,379,214,23.7,10.3,0.0,43.3,518.3,26.7,1.4,2.9,15.2
+Grilled Chicken,1,1.0,123,28,3.1,0.2,0.0,65.0,207.7,0.0,0.0,0.0,26.0
+Hallal Grilled Chicken,1,1.0,181,36,4.0,1.0,0.0,95.3,85.3,0.0,0.0,0.0,35.1
+Hamburger Rolls,1,1.0,140,14,1.5,0.0,0.0,0.0,270.0,27.0,1.0,3.0,4.0
+"Omelette, Cheese",1,4.0,205,131,14.5,5.9,0.0,433.4,224.2,1.2,0.0,1.1,16.4
+"Omelette, Ham and Cheese",1,4.0,185,109,12.1,5.7,0.0,360.0,574.2,2.2,0.0,2.2,15.9
+"Omelette, Pepper and Onion",1,4.0,142,82,9.1,2.7,0.0,381.0,127.7,2.3,0.3,1.6,12.0
+Turkey Burger,1,1.0,233,164,18.2,5.1,0.0,60.8,536.6,0.0,0.0,0.0,16.2
+"Veggie Burger, Garden Broiler",1,1.0,150,36,4.0,1.0,0.0,0.0,510.0,13.0,6.0,2.0,15.0
+Wild Rice,1,4.0,81,2,0.2,0.0,0.0,0.0,1.6,17.0,1.4,0.6,3.3
+Brown Rice,1,3.0,31,2,0.3,0.1,0.0,0.0,1.4,6.5,0.5,0.1,0.7
+Pomegranate Cabbage Salad with Mandarin Oranges,1,4.0,80,32,3.5,0.5,0.0,0.0,105.0,10.0,2.0,9.0,1.0
+Freekah Salad,1,4.0,167,53,5.9,0.8,0.0,0.0,207.8,27.1,5.7,0.9,3.5
+Lentil Salad,1,4.0,174,28,3.1,0.3,0.0,0.0,159.3,26.3,12.3,2.4,10.3
+Bananas,1,1.0,134,4,0.5,0.2,0.0,0.0,1.5,34.3,3.9,18.4,1.6
+Local Apples,1,1.0,72,2,0.2,0.0,0.0,0.0,1.4,19.1,3.3,14.3,0.4
+Oranges,1,1.0,59,2,0.2,0.0,0.0,0.0,1.2,15.1,2.7,10.3,1.1
+Chili Verde,1,6.0,211,105,11.7,3.8,0.0,57.7,356.4,6.9,1.5,1.2,18.2
+Cornbread,1,1.0,140,54,6.0,1.0,0.0,20.0,210.0,20.0,1.0,8.0,2.0
+Crimson Vegan Chili,1,6.0,81,14,1.6,0.1,0.0,0.0,218.5,13.9,3.7,4.3,3.7
+Shredded Cheddar Cheese,1,1.0,114,85,9.4,6.0,0.0,29.8,176.1,0.4,0.0,0.1,7.1
+Soft Corn Tortilla,1,1.0,140,14,1.5,0.0,0.0,0.0,5.0,29.0,2.0,0.0,3.0
+New England Clam Chowder,2,6.0,339,251,27.9,14.4,0.0,94.1,888.2,13.9,0.7,0.6,8.2
+Quinoa and Vegetable Soup,2,6.0,47,11,1.2,0.1,0.0,0.0,269.3,7.5,1.8,3.9,1.6
+Corn Niblets,2,2.0,44,3,0.4,0.1,0.0,0.0,0.5,10.5,1.3,1.7,1.4
+Flaked Tuna,2,2.0,72,15,1.7,0.4,0.0,23.6,28.1,0.0,0.0,0.0,13.3
+Goat Cheese,2,2.0,162,110,12.2,8.3,0.0,40.5,91.1,0.5,0.0,0.0,10.1
+Hard Cooked Eggs,2,1.0,78,45,5.0,1.7,0.0,240.8,72.8,1.1,0.0,0.0,6.7
+Hummus,2,2.0,109,45,5.0,0.5,0.0,0.0,74.3,11.9,3.0,2.0,5.0
+Roasted Brussels Sprouts,2,2.0,46,10,1.1,0.2,0.0,0.0,72.5,6.4,2.4,1.6,2.4
+Roasted Button Mushrooms,2,2.0,29,16,1.8,0.3,0.0,0.0,76.0,2.3,0.7,1.4,2.1
+Seasoned Chicken Breast,2,2.0,80,27,3.0,0.6,0.0,34.2,93.9,0.0,0.0,0.0,12.5
+Shredded Carrots,2,2.0,23,1,0.1,0.0,0.0,0.0,39.1,5.4,1.6,2.7,0.5
+Sliced Cucumbers,2,2.0,6,1,0.1,0.0,0.0,0.0,1.0,1.0,0.3,0.7,0.3
+Steamed Edamame Beans,2,1.0,43,14,1.5,0.0,0.0,0.0,111.4,4.1,1.5,0.5,3.0
+Tofu,2,2.0,50,22,2.5,0.3,0.0,0.0,0.0,1.2,0.0,0.0,5.6
+Tomato Wedges,2,2.0,12,2,0.2,0.0,0.0,0.0,5.1,2.6,0.6,0.0,0.5
+Rosemary and Garlic Roasted Chicken,2,1.0,327,212,23.5,6.3,0.0,89.8,89.4,0.9,0.4,0.0,26.6
+Indonesian Soba Noodle Stir Fry with Tempeh,2,5.0,200,84,9.3,1.4,0.0,0.0,585.5,23.6,2.7,3.2,7.7
+"Veggie Burger, Garden Broiler",2,1.0,150,36,4.0,1.0,0.0,0.0,510.0,13.0,6.0,2.0,15.0
+Scalloped Potatoes,2,4.0,198,116,12.9,7.6,0.0,43.2,148.6,19.1,1.6,1.4,2.4
+Eggplant Caponata,2,4.0,57,9,1.0,0.0,0.0,0.0,557.6,10.3,2.2,3.3,0.9
+Steamed Zucchini Rings,2,4.0,16,3,0.4,0.1,0.0,0.0,3.1,2.8,1.1,1.6,1.2
+Cold Brew Coffee Frozen Yogurt,2,2.0,65,9,1.0,0.5,0.0,3.0,56.5,13.0,0.5,8.5,1.5
+Vanilla Soft Serve Ice Cream,2,2.0,85,26,2.9,2.0,0.0,13.0,39.1,13.0,0.0,9.1,1.3
+Herbed Oil,2,1.0,239,242,26.8,3.7,0.0,0.0,1.0,0.8,0.5,0.0,0.1
+Sourdough Carving Loaf,2,1.0,150,23,2.5,0.0,0.0,0.0,240.0,26.0,0.0,0.0,5.0
+Beyond Burger,2,1.0,291,199,22.1,8.0,0.0,0.0,461.6,6.0,3.0,0.0,20.1
+Cage Free Eggs Cooked to Order,2,1.0,70,41,4.5,1.5,0.0,215.0,65.0,1.0,0.0,0.0,6.0
+Cage-Free Egg Whites Cooked to Order,2,4.0,57,0,0.0,0.0,0.0,0.0,192.8,1.1,0.0,0.0,12.5
+Frankfurter Rolls,2,1.0,120,14,1.5,0.0,0.0,0.0,230.0,23.0,1.0,3.0,4.0
+French Fries,2,4.0,175,57,6.3,1.2,0.0,0.0,397.4,8.0,0.9,0.0,0.9
+Grilled All Beef Old Neighborhood Hot Dog,2,1.0,129,90,9.9,5.0,0.0,29.8,357.2,1.0,7.9,0.0,7.9
+Grilled Burger,2,1.0,271,190,21.1,10.0,0.0,70.2,60.2,0.0,0.0,0.0,19.1
+Grilled Cheese Sandwich,2,1.0,379,214,23.7,10.3,0.0,43.3,518.3,26.7,1.4,2.9,15.2
+Grilled Chicken,2,1.0,123,28,3.1,0.2,0.0,65.0,207.7,0.0,0.0,0.0,26.0
+Hallal Grilled Chicken,2,1.0,181,36,4.0,1.0,0.0,95.3,85.3,0.0,0.0,0.0,35.1
+Hamburger Rolls,2,1.0,140,14,1.5,0.0,0.0,0.0,270.0,27.0,1.0,3.0,4.0
+"Omelette, Cheese",2,4.0,205,131,14.5,5.9,0.0,433.4,224.2,1.2,0.0,1.1,16.4
+"Omelette, Ham and Cheese",2,4.0,185,109,12.1,5.7,0.0,360.0,574.2,2.2,0.0,2.2,15.9
+"Omelette, Pepper and Onion",2,4.0,142,82,9.1,2.7,0.0,381.0,127.7,2.3,0.3,1.6,12.0
+Turkey Burger,2,1.0,233,164,18.2,5.1,0.0,60.8,536.6,0.0,0.0,0.0,16.2
+"Veggie Burger, Garden Broiler",2,1.0,150,36,4.0,1.0,0.0,0.0,510.0,13.0,6.0,2.0,15.0
+Mediterranean Split Pea,2,4.0,194,9,1.0,0.2,0.0,0.0,464.2,35.0,12.9,5.0,12.8
+Brown Rice,2,3.0,31,2,0.3,0.1,0.0,0.0,1.4,6.5,0.5,0.1,0.7
+Chocolate Chips,2,1.0,136,77,8.5,5.0,0.0,0.0,3.1,18.1,1.7,15.5,1.2
+Gummy Worms,2,1.0,112,0,0.0,0.0,0.0,0.0,12.5,28.0,0.0,16.7,0.0
+Maraschino Cherry Halves,2,1.0,11,0,0.0,0.0,0.0,0.0,0.0,2.2,0.0,2.2,0.0
+Oreo Cookie Crumb Topping,2,1.0,137,47,5.3,1.6,0.0,0.0,136.5,20.0,0.0,11.6,1.1
+Swedish Fish,2,1.0,112,0,0.0,0.0,0.0,0.0,12.5,28.0,0.0,16.7,0.0
+Vanilla Pudding,2,1.0,35,0,0.0,0.0,0.0,0.0,55.2,6.8,0.0,4.3,0.0
+Vanilla Wafer Cookie,2,1.0,140,45,5.0,1.5,0.0,0.0,120.0,22.0,0.0,9.0,1.0
+Whipped Topping,2,1.0,49,47,5.2,3.3,0.2,19.4,5.4,0.4,0.0,0.0,0.3
+Pomegranate Cabbage Salad with Mandarin Oranges,2,4.0,80,32,3.5,0.5,0.0,0.0,105.0,10.0,2.0,9.0,1.0
+Freekah Salad,2,4.0,167,53,5.9,0.8,0.0,0.0,207.8,27.1,5.7,0.9,3.5
+Lentil Salad,2,4.0,174,28,3.1,0.3,0.0,0.0,159.3,26.3,12.3,2.4,10.3
+Bananas,2,1.0,134,4,0.5,0.2,0.0,0.0,1.5,34.3,3.9,18.4,1.6
+Local Apples,2,1.0,72,2,0.2,0.0,0.0,0.0,1.4,19.1,3.3,14.3,0.4
+Oranges,2,1.0,59,2,0.2,0.0,0.0,0.0,1.2,15.1,2.7,10.3,1.1
+Barilla Plus Spaghetti,2,4.0,152,14,1.6,0.0,0.0,0.0,20.0,30.4,3.2,1.6,8.0
+Marinara Spaghetti Sauce,2,4.0,73,33,3.6,0.0,0.0,0.0,353.8,9.1,1.8,7.3,1.8
+Vodka Sauce,2,4.0,312,236,26.2,8.0,0.3,41.4,735.9,10.2,0.8,5.7,3.5
+Apple Zings,3,1.0,130,9,1.0,0.0,0.0,0.0,150.1,29.0,1.0,15.0,1.0
+Cinnamon Toasters,3,0.75,130,32,3.5,0.5,0.0,0.0,140.1,24.0,1.0,10.0,1.0
+Cocoa Krispies,3,0.75,120,9,1.0,0.5,0.0,0.0,129.9,27.0,1.0,12.0,1.0
+Colossal Crunch,3,0.75,113,13,1.4,0.5,0.0,0.0,225.1,24.4,0.9,12.2,0.9
+Corn Chex,3,1.0,120,5,0.5,0.0,0.0,0.0,219.9,26.0,2.0,3.0,2.0
+Cracklin' Oat Bran,3,0.75,200,63,7.0,3.0,0.0,0.0,135.0,34.0,6.0,14.0,4.0
+Dried Fruit Medley,3,0.25,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Frosted Mini Spooners,3,1.0,190,9,1.0,0.0,0.0,0.0,10.0,45.0,6.0,11.0,5.0
+Hemp Granola,3,1.0,460,162,18.0,2.0,0.0,0.0,120.1,68.0,8.0,20.0,12.0
+Honey Graham Squares,3,0.75,120,27,3.0,0.0,0.0,0.0,260.2,23.0,1.0,10.0,2.0
+Honey Nut Toasty O's,3,1.0,120,14,1.5,0.0,0.0,0.0,210.2,24.0,2.0,9.0,3.0
+Honey Oat Blenders,3,0.75,120,14,1.5,0.0,0.0,0.0,150.4,25.1,1.0,6.0,2.0
+Kashi Heart to Heart,3,0.75,121,14,1.5,0.0,0.0,0.0,85.9,26.3,5.1,5.1,3.0
+Life Cereal,3,0.75,120,14,1.5,0.0,0.0,0.0,160.1,25.0,2.0,6.0,3.0
+Marshmallow Mateys,3,1.0,120,9,1.0,0.0,0.0,0.0,200.2,25.0,1.0,13.0,2.0
+Multi Grain Chocolate Krave,3,0.75,120,32,3.5,1.0,0.0,0.0,99.9,23.0,3.0,10.0,2.0
+Raisin Bran Crunch,3,1.0,190,9,1.0,0.0,0.0,0.0,199.9,45.0,4.0,19.0,4.0
+Raisin Bran,3,1.0,200,9,1.0,0.0,0.0,0.0,280.1,45.0,6.0,20.0,5.0
+Rice Chex,3,1.0,100,5,0.5,0.0,0.0,0.0,220.3,21.0,1.0,2.0,2.0
+"Sesame, Almond, Seed & Cranberry Blend",3,0.25,160,90,10.0,1.0,0.0,0.0,90.1,14.0,2.0,7.0,4.0
+Toastie O's,3,1.0,120,18,2.0,0.0,0.0,0.0,150.1,22.0,3.0,0.0,4.0
+Tootie Fruities,3,1.0,130,9,1.0,0.0,0.0,0.0,150.1,2.0,1.0,15.0,2.0
+Total,3,0.75,110,5,0.5,0.0,0.0,0.0,139.9,25.0,3.0,5.0,2.0
+Bagel Cinnamon Raisin,3,1.0,339,23,2.5,0.0,0.0,0.0,350.0,66.0,3.0,8.0,11.0
+Bagel Everything,3,1.0,280,9,1.0,0.0,0.0,0.0,350.0,56.0,2.0,6.0,11.0
+Bagel Multigrain,3,1.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Bagel Plain,3,1.0,422,28,3.1,0.0,0.0,0.0,436.0,82.2,3.7,10.0,13.7
+"Bread, Hearty Multigrain",3,1.0,80,12,1.3,0.0,0.0,0.0,176.7,13.3,0.9,0.0,2.7
+"Bread, Hearty Wheat",3,1.0,4,0,0.0,0.0,0.0,0.0,5.5,0.6,0.1,0.0,0.2
+"Bread, Raisin",3,1.0,68,5,0.6,0.0,0.0,0.0,153.0,14.7,1.1,3.4,2.3
+"Bread, Scali",3,1.0,59,6,0.7,0.2,0.0,0.0,128.4,12.6,2.8,0.0,2.5
+"Bread, Sourdough",3,1.0,90,9,1.0,0.0,0.0,0.0,140.1,17.0,0.0,0.0,3.0
+"Bread, Stone Ground Whole Wheat",3,1.0,80,9,1.0,0.0,0.0,0.0,120.0,13.0,2.0,1.0,5.0
+"Bread, White Pita",3,1.0,116,0,0.0,0.0,0.0,0.0,340.0,34.0,0.0,0.0,6.0
+Wheat Bread,3,1.0,80,9,1.0,0.0,0.0,0.0,160.1,15.0,1.0,1.0,3.0
+White Bread,3,1.0,80,9,1.0,0.2,0.0,0.0,148.5,14.8,0.8,1.5,2.8
+Fat Free Cottage Cheese,3,3.0,53,0,0.0,0.0,0.0,0.0,308.6,3.8,0.0,3.4,9.8
+Grated Parmesan Cheese,3,1.0,122,73,8.1,4.9,0.0,24.9,433.5,1.2,0.0,0.3,10.9
+All Natural Peanut Butter,3,1.0,168,128,14.2,1.8,0.0,0.0,110.7,6.2,2.7,0.9,7.1
+Applesauce,3,3.0,35,0,0.0,0.0,0.0,0.0,7.0,9.1,1.4,6.3,0.0
+Butter Whipped,3,0.5,76,78,8.6,5.5,0.3,22.9,1.2,0.0,0.0,0.0,0.1
+Grape Preserves,3,1.0,71,0,0.0,0.0,0.0,0.0,7.1,18.4,0.0,14.2,0.0
+Low Fat Strawberry Yogurt,3,4.0,121,9,1.0,0.8,0.0,5.0,65.5,24.7,0.0,20.7,3.5
+Plain Cream Cheese,3,1.0,97,88,9.7,5.5,0.3,31.2,91.0,1.2,0.0,0.9,1.7
+Plain Nonfat Greek Yogurt,3,4.0,65,0,0.0,0.0,0.0,5.0,47.5,5.0,0.5,3.5,11.5
+Raspberry Preserves,3,1.0,79,0,0.0,0.0,0.0,0.0,9.1,19.5,0.3,13.8,0.1
+Smart Balance,3,0.5,100,99,11.0,3.5,0.0,0.0,90.0,0.0,0.0,0.0,0.0
+Sunflower Seeds,3,1.0,166,132,14.6,1.3,0.0,0.0,2.6,5.7,2.4,0.7,5.9
+Unsalted Butter,3,0.5,91,93,10.3,6.6,0.4,27.4,1.4,0.0,0.0,0.0,0.1
+"Dressing, Asiago Fresco",3,1.0,142,128,14.2,2.8,0.0,9.5,226.8,0.9,0.0,0.0,0.0
+"Dressing, Balsamic Vinaigrette",3,1.0,113,102,11.3,1.4,0.0,0.0,151.2,2.8,0.0,1.9,0.0
+"Dressing, Blue Cheese",3,1.0,142,136,15.1,3.3,0.0,9.5,189.0,0.0,0.0,0.0,0.9
+"Dressing, Chianti Vinaigrette",3,1.0,161,162,18.0,2.4,0.0,0.0,198.5,1.9,0.0,0.9,0.0
+"Dressing, Citrus Vinaigrette",3,1.0,33,13,1.4,0.0,0.0,0.0,406.4,5.7,0.0,4.7,0.0
+"Dressing, Creamy Vegetarian Caesar",3,1.0,104,94,10.4,1.9,0.0,4.7,226.8,0.9,0.0,0.9,0.9
+"Dressing, Lo Cal Italian",3,1.0,14,9,0.9,0.0,0.0,0.0,349.7,1.9,0.0,1.9,0.0
+"Dressing, Ranch",3,1.0,76,68,7.6,1.4,0.0,4.7,198.5,1.9,0.0,0.9,0.9
+"Dressing, Red Wine Vinaigrette",3,1.0,62,47,5.2,0.5,0.0,0.0,302.1,3.1,0.0,2.1,0.0
+"Dressing, Russian",3,1.0,76,51,5.7,0.9,0.0,4.7,255.2,5.7,0.0,2.8,0.0
+"Dressing, Tuscan Sundried Tomato",3,1.0,95,77,8.5,0.9,0.0,0.0,302.4,4.7,0.9,3.8,0.0
+Honey Mustard Dressing,3,1.0,227,153,17.0,1.9,0.0,9.5,207.9,9.5,0.0,11.3,0.0
+Mayonnaise,3,1.0,122,110,12.2,0.0,0.0,0.0,192.4,2.0,0.0,0.0,0.0
+1% Milk,3,8.0,103,22,2.4,1.6,0.1,12.3,108.2,12.3,0.0,12.3,8.3
+"Beverage, Cherry Cola",3,8.0,83,0,0.0,0.0,0.0,0.0,9.0,21.5,0.0,20.2,0.2
+"Beverage, Coke",3,8.0,90,0,0.0,0.0,0.0,0.0,29.1,24.3,0.0,24.3,0.0
+"Beverage, Diet Coke",3,8.0,1,0,0.0,0.0,0.0,0.0,10.0,0.1,0.0,0.0,0.0
+"Beverage, Ginger Ale",3,8.0,84,0,0.0,0.0,0.0,0.0,23.3,22.3,0.0,22.3,0.0
+"Beverage, Iced Tea Unsweetened",3,8.0,0,0,0.0,0.0,0.0,0.0,27.8,0.0,0.0,0.0,0.0
+"Beverage, Lemon Lime Powerade",3,8.0,73,1,0.1,0.0,0.0,0.0,50.0,17.8,0.0,13.9,0.0
+"Beverage, Light Lemonade",3,8.0,48,0,0.0,0.0,0.0,0.0,14.4,13.4,0.0,11.5,0.0
+"Beverage, Mountain Blast Powerade",3,8.0,51,0,0.0,0.0,0.0,0.0,44.2,13.5,0.0,10.7,0.0
+"Beverage, Orange",3,8.0,101,0,0.0,0.0,0.0,0.0,32.0,27.5,0.0,27.5,0.0
+"Beverage, Pink Lemonade",3,8.0,91,1,0.1,0.0,0.0,0.0,9.1,23.7,0.0,22.7,0.2
+"Beverage, Rootbeer",3,8.0,93,0,0.0,0.0,0.0,0.0,29.5,24.1,0.0,24.1,0.0
+"Beverage, Sprite",3,8.0,91,0,0.0,0.0,0.0,0.0,20.4,23.0,0.0,20.4,0.1
+"Beverage, Sprite Zero",3,8.0,0,0,0.0,0.0,0.0,0.0,0.9,0.0,0.0,0.0,0.0
+Chocolate Milk,3,8.0,180,23,2.5,1.5,0.0,15.0,230.0,31.0,0.0,29.0,8.0
+Hot Chocolate,3,8.0,106,11,1.2,0.0,0.0,0.0,141.8,23.6,0.0,22.4,0.0
+"Juice, Apple",3,8.0,120,0,0.0,0.0,0.0,0.0,10.0,29.0,0.0,28.0,0.0
+"Juice, Cranberry",3,8.0,140,0,0.0,0.0,0.0,0.0,10.0,34.0,0.0,33.0,0.0
+"Juice, Grape",3,8.0,130,0,0.0,0.0,0.0,0.0,10.0,33.0,0.0,32.0,0.0
+"Juice, Grapefruit",3,8.0,130,0,0.0,0.0,0.0,0.0,10.0,32.0,0.0,31.0,0.0
+"Juice, Orange",3,8.0,75,0,0.0,0.0,0.0,0.0,12.4,17.4,0.0,14.9,1.2
+Plain Soy Milk,3,8.0,84,29,3.3,0.9,0.0,0.0,74.7,8.4,0.9,5.6,6.5
+Skim (Fat Free) Milk,3,8.0,83,2,0.2,0.1,0.0,4.9,102.9,12.2,0.0,12.2,8.3
+Vanilla Soy Milk,3,8.0,68,17,1.9,0.4,0.0,0.0,111.1,9.3,0.2,6.6,3.6
+"Water, Cucumber Aquahealth",3,8.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Water, Lemon Aquahealth",3,8.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Water, Lime Mint Aquahealth",3,8.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+"Water, Rasperry Aquahealth",3,8.0,0,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
